@@ -3,9 +3,9 @@ CREATE TABLE Customers (
    FirstName varchar(30),
    LastName varchar(30),
    Age int,
-   Street varchar (30),
-   City varchar (30),
-   State char(2)
+   Street varchar(30),
+   City varchar(30),
+   State char(2),
    PhoneNumber int
 );
 
